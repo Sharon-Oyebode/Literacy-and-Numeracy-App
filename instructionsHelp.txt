@@ -1,0 +1,26 @@
+How to use:
+1. Navigate the menu and enter the number for the menu option of your choice 
+Press 1 for Literacy Lessons
+Press 2 for Numeracy Lessons 
+Press 3 for Quizzes
+Press 4 to view Progress
+Press 5 to Exit
+
+2. LITERACY LESSONS
+In this module, you learn the alphabets, simple words and simple sentences. Follow the on screen instructions.
+
+3. NUMERACY LESSONS
+In this module, you learn numbers, basic math operations like addition, subtraction, multiplication and division
+
+4. QUIZ
+Your knowledge is tested on your literacy and numeracy skills
+Follow on screen instruction to submit answers 
+
+5. VIEW PROGRESS 
+Check the lessons you have completed and view your quiz scores.
+
+Other tips:
+If you make a mistake, the program will guide you back to try again.
+
+Enjoy Learning!
+

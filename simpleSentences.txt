@@ -1,0 +1,8 @@
+//Simple sentences
+
+the boy is outside 
+the sun is bright 
+we can go there 
+the house is big 
+I have a red ball 
+stop! 

@@ -1,0 +1,13 @@
+Which letter comes after F? (a)B (b)G (c)H|b
+
+What is 3 + 7? (a)7 (b)10 (c)2|b
+
+What is 7 * 1? (a)9 (b)5 (c)7|c 
+
+What letter is in between H and J? (a)I (b)O (c)P|a
+
+What word has the sound /0/? (a)toe  (b)though (c)thought|c
+
+
+
+
